@@ -1,4 +1,4 @@
-Version 4.0.10 (2013-10-28)
+Version 4.0.12 (2013-10-28)
 	Added new forced_root_block_attrs option that allows you to specify attributes for the root block.
 	Fixed bug where the custom resize handles didn't work properly on IE 11.
 	Fixed bug where the code plugin would select all contents in IE when content was updated.
